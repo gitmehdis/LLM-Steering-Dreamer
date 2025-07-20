@@ -22,7 +22,7 @@ For more background, detailed results, and analysis, refer to the full [technica
 
 ### Running the Experiments
 
-After cloning the repository, you can run `requirements.ipynb` notebook which admits OPENAI_API_KEY and a directory to your Dreamer policy checkpoint 
+After cloning the repository, you can run `main.ipynb` notebook which admits `OPENAI_API_KEY` and a directory to your Dreamer policy checkpoint 
 
 
 
